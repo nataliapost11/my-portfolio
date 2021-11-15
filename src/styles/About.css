@@ -1,0 +1,10 @@
+.profile-photo{
+  width: 240px;
+  height:240px;
+  border-radius: 120px;
+  margin:20px;
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-image: url(../images/profile-photo.jpg);
+  display:inline-block;
+}
