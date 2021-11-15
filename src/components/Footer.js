@@ -11,10 +11,10 @@ function Footer() {
         <a target="_blank" rel="noreferrer" href="https://github.com/nataliapost11"> 
           <FontAwesomeIcon icon={faGithub} size='2x' /> 
         </a>    
-        <a target="_blank" rel="noreferrer" href="http://linkedin.com" > 
+        <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/nataliapost/" > 
           <FontAwesomeIcon icon={faLinkedin} size='2x' /> 
         </a>    
-        <a target="_blank" rel="noreferrer" href="http://stackexchange.com" > 
+        <a target="_blank" rel="noreferrer" href="https://stackoverflow.com/users/17422806/natalia-post?tab=profile" > 
           <FontAwesomeIcon icon={faStackOverflow} size='2x' /> 
         </a>  
       </div> 
