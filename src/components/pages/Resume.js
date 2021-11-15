@@ -7,7 +7,22 @@ export default function Resume() {
         Resume
       </header>
       <div className="content">
-        Resume goes here!
+        <p>
+          Download my <a href="#">resume</a>
+        </p>
+        <h5>Front-end Proficiencies</h5>
+        <ul>
+          <li>HTML</li>
+          <li>JavaScript</li>
+          <li>jQuery</li>
+          <li>ReactJS</li>
+        </ul>
+        <h5>Back-end Proficiencies</h5>
+        <ul>
+          <li>MySQL</li>
+          <li>MongoDB</li>
+          <li>SQL Server</li>
+        </ul>
       </div>
     </section>
   );

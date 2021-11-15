@@ -1,0 +1,28 @@
+.form {
+  margin: 20px 5px;
+  width: 600px;
+}
+
+.form label {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+.form input, .form textarea {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+.error-text{
+  color:#ffbbbb;
+  padding: 8px;
+}
+
+.submit-button{
+  padding: 6px 20px;
+  margin:auto;
+}
