@@ -1,0 +1,25 @@
+/* CSS HEX */
+:root {
+    --key-lime: #d9ed92ff;
+    
+    --keppel: #52b69aff;
+    --viridian-green: #34a0a4ff;
+    --blue-munsell: #168aadff;
+    --celadon-blue: #1a759fff;
+    --lapis-lazuli: #1e6091ff;
+
+    --nav-menu-open-bg: #d9ed92ff;
+    --nav-menu-open-color: #1e6091ff;
+    --nav-selected-bg: #76c893ff; 
+    --nav-hover-bg: #99d98cff;
+    --bgcolor-header: rgb(67, 121, 105);
+    --color-header: #99d98cff;
+    --nav-header-active: #ffffff;
+
+    --bgcolor-main: #184e77ff;
+    --color-main: #ffffff;
+}
+
+body{
+    background-color: var(--bgcolor-main) !important;
+}

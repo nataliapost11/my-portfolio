@@ -1,0 +1,11 @@
+.section {
+  background: var(--bgcolor-main);
+  color:var(--color-main);
+  padding: 20px;
+  font-size:16pt;
+}
+
+.section header {
+  text-align: left;
+  font-size:2.2rem;
+}

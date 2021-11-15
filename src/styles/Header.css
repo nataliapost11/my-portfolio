@@ -1,0 +1,17 @@
+.header {
+  /* background-image: url(../images/sub-header-bg.jpg); */
+  background-color: var(--bgcolor-header);
+  color:var(--color-header);
+  height: 100px;
+}
+
+.header-text {
+  margin: 0;
+  padding: 20px 20px;
+  text-align: left;
+  color: var(--color-header);
+  font-size: 3rem;
+  font-weight:bold;
+  float:left;
+  min-width: 400px;
+}
